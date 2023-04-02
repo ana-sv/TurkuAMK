@@ -185,6 +185,9 @@ end
 
 ___
 
+# LAB2 
+
+
 # Time
 
 Most embedded systems must operate with well-known schedules, because majority of processing tools (FIR/IIR digital filters, PID control etc) depend on uniformly sampled data points. Uniform sampling means that samples are taken at known regular intervals. Deviation from ideal timing is called jitter.
