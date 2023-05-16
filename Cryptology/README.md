@@ -1,4 +1,4 @@
-# Crytology - 2023
+# Crytology 
 ## Final Grande: 5 
 
 # Course Information
