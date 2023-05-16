@@ -1,4 +1,4 @@
 
 # Capstone Project 
-## Biosignals as a game controller 
-## Final Grande : 5 
+### Project:  Biosignals as a game controller 
+### Final Grande : 5 
